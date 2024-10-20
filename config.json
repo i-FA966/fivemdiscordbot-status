@@ -1,7 +1,7 @@
 {
   "BOT_TOKEN": "token",
-  "SERVER_URL": "ip:port_or_link",
-  "CHANNEL_ID": "channel_ID",
+  "SERVER_URL": "https://cfx.re/join/eggmxd",
+  "CHANNEL_ID": "1289348504258609155",
   "DIRECT_CONNECT_LINK": "DIRECT_CONNECT_LINK",
   "updateMinutes": 1
 }
